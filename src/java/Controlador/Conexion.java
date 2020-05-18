@@ -24,11 +24,11 @@ public class Conexion {
      String CLASSNAME="com.mysql.jdbc.Driver";
      String URL="jdbc:mysql://"+Host+":"+Port+"/"+Database;
      */
-     String Username="ddwtnferbshytw";
-     String password="9ef94031d94dc100b155809e41cc63ba5a889156e198aa35397efa544fb7c89b";
-     String Host="ec2-54-243-137-182.compute-1.amazonaws.com";
+     String Username="idjlcmanrtjfvc";
+     String password="88406d594515bfa8e27c18e7a15a6f45531f5bfa147cf898b1ffcf8ccbf2dec9";
+     String Host="ec2-52-201-55-4.compute-1.amazonaws.com";
      String Port="5432";
-     String Database="d93r01o1jec57m";
+     String Database="d33vt2attounmi";
      String CLASSNAME="org.postgresql.Driver";
      String URL="jdbc:postgresql://"+Host+":"+Port+"/"+Database + "?sslmode=require";
      
