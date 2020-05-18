@@ -12,6 +12,7 @@ import java.sql.SQLException;
 /**
  *
 *@author Sulay Cupitra
+* 
  */
 public class Conexion {
     /* 
