@@ -1,7 +1,7 @@
 <%-- 
-    Document   : inex
-    Created on : 18/05/2020, 04:35:59 PM
-    Author     : Sulay2016
+    Document   : index
+    Created on : 11-may-2020, 19:40:02
+    Author     : Sulay Cupitra
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -9,9 +9,12 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>Indice Pagina</title>
+         <link rel="stylesheet" href="bootstrap.min.css">
     </head>
+
     <body>
+     
         <h1>Login</h1>
         <form action="selver" method="post">
             Usuarios:  
