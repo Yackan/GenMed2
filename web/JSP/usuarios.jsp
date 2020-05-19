@@ -63,7 +63,9 @@
 </tr>
 <tr>
 <td>Año de Nacimiento:</td>
-<td><input type="text" size="29" name="anio"></td>
+<td><input type="date" id="start" name="trip-start"
+       value="1900-01-01"
+       min="1900-01-01" max="2150-12-31"></td>
 </tr>
 <tr>
 <td>Edad</td>
